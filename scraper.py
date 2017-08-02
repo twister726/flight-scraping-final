@@ -148,7 +148,7 @@ def save_most_recent_flight(plane_code, browser):
 # Get all the currently active and inactive plane codes of the required airlines
 def get_all_planes():
 	print('Starting get_all_planes...')
-	# airline_urls = ['https://www.flightradar24.com/data/aircraft/air-india-ai-aic']
+	# Read all Indian airline FR24 URLs from a file
 	airline_urls = []
 	with open('airlines.txt') as f:
 		airline_urls = [i.replace('\n', '') for i in f.readlines()]
