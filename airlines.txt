@@ -1,0 +1,10 @@
+https://www.flightradar24.com/data/aircraft/air-india-ai-aic
+https://www.flightradar24.com/data/aircraft/air-india-express-ix-axb
+https://www.flightradar24.com/data/aircraft/air-india-regional-9i-llr
+https://www.flightradar24.com/data/aircraft/jet-airways-9w-jai
+https://www.flightradar24.com/data/aircraft/jetlite-s2-jll
+https://www.flightradar24.com/data/aircraft/indigo-airlines-6e-igo
+https://www.flightradar24.com/data/aircraft/spicejet-sg-sej
+https://www.flightradar24.com/data/aircraft/go-air-g8-gow
+https://www.flightradar24.com/data/aircraft/vistara-uk-vti
+https://www.flightradar24.com/data/aircraft/trujet-2t-trj
